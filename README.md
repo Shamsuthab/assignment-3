@@ -17,4 +17,5 @@ node main.js
 Problems Faced:
 - i had a hard time moving files
 - i used a bit of help from ai to learn and do the code
-
+- and it was a bit challenging
+- 
