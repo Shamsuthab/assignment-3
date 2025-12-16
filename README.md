@@ -13,9 +13,8 @@ Run
 node main.js
 ```
 
-Notes
-- This repository contains minimal example code for learning and grading purposes.
-- No external dependencies required.
 
-License
-- If you want a license added, tell me which one (e.g. MIT) and I will add it.
+Problems Faced:
+- i had a hard time moving files
+- i used a bit of help from ai to learn and do the code
+
